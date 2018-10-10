@@ -1,3 +1,4 @@
+//This JSP is used to edit data in SQL
 <%@ page import="java.sql.*" %>
 <% Class.forName("com.mysql.jdbc.Driver");%>
 
